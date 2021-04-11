@@ -1,0 +1,16 @@
+{
+  "name": "superHi-template",
+  "version": "1.0.0",
+  "description": "a simple base template for working with https://www.superhi.com/ lessons",
+  "main": "index.js",
+  "author": "blinnnk",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
