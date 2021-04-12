@@ -16,9 +16,9 @@ Steps:
   or
   ```npm install```
 * run
-  ```yarn dev```
+  ```yarn start```
   or
-  ```npm run dev```
+  ```npm start```
 
 If you'd like to create an optimized build folder to host on your website/server:
 
